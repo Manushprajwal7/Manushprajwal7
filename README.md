@@ -1,7 +1,8 @@
-<img align="center" alt=" banner git coading image " width="800px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="center" alt=" banner git coading image " width="900px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <h1 align="center">Hi 👋, I'm ManushPrajwal</h1>
 <h3 align="center">A passionate developer from India</h3>
- src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
+
+<img align="right" alt="coading" width="400px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manushprajwal7&label=Profile%20views&color=0e75b6&style=flat" alt="manushprajwal7" /> </p>
 
